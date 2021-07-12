@@ -27,6 +27,11 @@ A Project Management Application.
 **Drawable Items and BoardList**
 ![SS2 2](https://user-images.githubusercontent.com/76396056/125322876-d9c49400-e35b-11eb-86b1-a2eb20734381.jpeg)
 
+## Contacts
+
+- [Email](princekupandey786@gmail.com)
+- [LinkedIn](linkedin.com/in/prince-kumar-pandey-5742301a9)
+
 
 
 
