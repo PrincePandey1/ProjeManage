@@ -6,7 +6,7 @@ A Project Management Application.
 
 ![proj 3](https://user-images.githubusercontent.com/76396056/125314559-ee049300-e353-11eb-99b0-d003f55e6858.png)
 
-**Download**
+
 
 
 # Features
