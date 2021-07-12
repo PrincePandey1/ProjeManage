@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Projemanage</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email_id_and_password_to_register_with_us">Enter your email id and password to register with us.</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="name">NAME</string>
+    <string name="enter_your_name_email_id_and_password_to_register_with_us">Enter your name, email id and password to register with us.</string>
+    <string name="let_s_get_started">Let\'s Get Started</string>
+    <string name="image_file">Image file</string>
+    <string name="please_wait">Please wait</string>
+    <string name="created_by">Created By</string>
+    <string name="board_name">Board Name</string>
+    <string name="no_boards_available">No boards available</string>
+    <string name="card_name">Card Name</string>
+    <string name="cancel_button_2">cancel Button 2</string>
+    <string name="edit_button">Edit Button</string>
+    <string name="cancel_button_1">Cancel Button 1</string>
+    <string name="add_list">Add List</string>
+    <string name="add_card">ADD CARD</string>
+    <string name="delete3">Delete3</string>
+    <string name="canceled">Canceled</string>
+    <string name="list_name">List Name</string>
+    <string name="delete_button">Delete Button</string>
+    <string name="no_boards_are_available">No boards are available</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="my_profile">My Profile</string>
+    <string name="members">Members</string>
+    <string name="cancel">CANCEL</string>
+    <string name="add">ADD</string>
+    <string name="search_member">Search Member</string>
+    <string name="update">UPDATE</string>
+    <string name="delete_card">Delete Card</string>
+    <string name="default_notification_channel_id">ProjeManage_Notification_Channel_Id</string>
+
+
+</resources>

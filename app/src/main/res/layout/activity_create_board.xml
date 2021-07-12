@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/ic_background"
+    tools:context=".activities.CreateBoard">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar_card_board_activity"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            app:title="Create Board"
+            android:background="@color/sky_blue"
+            app:popupTheme="@style/AppTheme.PopOverlay">
+        </androidx.appcompat.widget.Toolbar>
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        app:cardCornerRadius="5dp"
+        android:layout_margin="10dp"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/iv_profile_card_user_image"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginTop="5dp"
+                android:src="@drawable/ic_board_place_holder" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                app:hintTextColor="@color/sky_blue"
+                android:layout_marginTop="15dp">
+
+                <androidx.appcompat.widget.AppCompatEditText
+                    android:id="@+id/et_board_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/light_gray"
+                    android:hint="Board Name"
+                    android:backgroundTint="@color/sky_blue"
+                    android:inputType="text"
+                    android:textSize="15sp" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <Button
+                android:id="@+id/btn_create_user"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CREATE"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="5dp"
+                android:padding="10dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginBottom="15dp"
+                android:textColor="@color/white"
+                android:background="@drawable/shape_button_rounded" />
+
+
+        </LinearLayout>
+
+
+
+    </androidx.cardview.widget.CardView>
+
+
+</LinearLayout>
