@@ -15,7 +15,7 @@ A Project Management Application.
 - Create a Task with multiple User
 - Assign Muliple Card Under a Task
 - Drag and Drop feature
-- Notification meassage
+- Notification message
 - Color Picker
 - DatePicker
 
