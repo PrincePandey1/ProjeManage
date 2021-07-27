@@ -135,7 +135,7 @@ class MainActivity : BaseActivity() , NavigationView.OnNavigationItemSelectedLis
             R.id.nav_sign_out ->{
                 FirebaseAuth.getInstance().signOut()
                 //<--------When we SignOut our SharedPreference should be Reset
-                mSharedPreferences.edit().clear().apply()
+            //    mSharedPreferences.edit().clear().apply()
 
                 val intent = Intent(this, IntroActivity::class.java)
                 intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP or Intent.FLAG_ACTIVITY_NEW_TASK)
