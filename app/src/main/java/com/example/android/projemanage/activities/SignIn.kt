@@ -47,6 +47,8 @@ class SignIn : BaseActivity() {
 
     }
 
+    //<------Signing user using email and password----->
+
     private fun signInRegisteredUser(){
         val email: String = et_email_signin.text.toString().trim { it <= ' ' }
         val password: String = et_password_signin.text.toString().trim { it <= ' ' }
@@ -54,6 +56,8 @@ class SignIn : BaseActivity() {
         if (validateForm(email, password)){
             showProgressDialog("please wait")
 
+
+            //Authenticating user using email and password
             auth.signInWithEmailAndPassword(email, password)
                     .addOnCompleteListener(this) { task->
                         if (task.isSuccessful) {
