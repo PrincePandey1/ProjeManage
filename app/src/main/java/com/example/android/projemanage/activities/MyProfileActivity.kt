@@ -125,8 +125,9 @@ class MyProfileActivity : BaseActivity() {
         toolbar_my_profile_activity.setNavigationOnClickListener {
             onBackPressed()
         }
-
     }
+
+
     fun setUserDataInUI(user: User){
 
         mUserDetails = user
