@@ -15,7 +15,7 @@
         android:layout_height="wrap_content"
         android:text="Projemanage"
         android:textColor="@color/white"
-        android:textSize="50sp"
+        android:textSize="45sp"
         android:textAllCaps="true"
         android:fontFamily="@font/weloved_freetrial"/>
 

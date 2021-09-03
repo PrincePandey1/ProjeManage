@@ -131,6 +131,7 @@ class MyProfileActivity : BaseActivity() {
     fun setUserDataInUI(user: User){
 
         mUserDetails = user
+
         Glide.with(this)
                 .load(user.image)
                 .centerCrop()
