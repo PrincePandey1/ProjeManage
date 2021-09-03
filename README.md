@@ -21,10 +21,10 @@ A Project Management Application.
 
 ## Few Screenshots
 
-First Header  | Second Header |  Third Header  | Fouth Header
-------------- | ------------  |  ------------  | -------------
-![ProjScc](https://user-images.githubusercontent.com/76396056/132055376-8219f123-9001-437e-bca3-2852d97da28c.jpeg)|![ProjIntro](https://user-images.githubusercontent.com/76396056/132055411-2841d028-fc43-4aa4-b4ac-c51f0d93de4a.jpeg)|![ProjMain](https://user-images.githubusercontent.com/76396056/132055543-223af554-44a1-41cf-a7c5-3240c2ef8608.jpeg)|![ProjDraw](https://user-images.githubusercontent.com/76396056/132057952-67af4318-a01d-4951-939e-ec57d9030ff8.jpeg)
-![ProjMyProf](https://user-images.githubusercontent.com/76396056/132058726-cd2ca872-f89d-47b3-a3d2-1311af568046.jpeg)|![ProjMain](https://user-images.githubusercontent.com/76396056/132058758-a576ea20-726c-4bdc-aead-9eed34ada598.jpeg)|![ProjMem](https://user-images.githubusercontent.com/76396056/132058783-4fca00dc-0327-4346-8729-daefe6da561d.jpeg)|![ProjCard](https://user-images.githubusercontent.com/76396056/132058807-f901652e-73ee-4b8e-9368-f9ff506e2909.jpeg)
+First Header  | Second Header | Third Header | Four Header
+------------- | ------------- | ------------ | -----------
+![ProjScc](https://user-images.githubusercontent.com/76396056/132064940-181ae3b0-8efe-4e28-8a76-ad9362c060f2.jpeg) | ![ProjIntro](https://user-images.githubusercontent.com/76396056/132065054-c8f95328-541a-4643-8c31-2bd62a71c5dd.jpeg)  | ![ProjDraw](https://user-images.githubusercontent.com/76396056/132065211-15792da1-8ed7-4f01-be34-d736835e78af.jpeg)|![ProjMain](https://user-images.githubusercontent.com/76396056/132065304-7977e866-9788-4945-a860-b3441a24081f.jpeg)| 
+![ProjMem](https://user-images.githubusercontent.com/76396056/132065375-183497d1-32d4-498f-b92e-55a837c1000f.jpeg)  | ![ProjMyProf](https://user-images.githubusercontent.com/76396056/132065521-7fc5ec5f-1c6f-48b5-9ec3-16fde3546afb.jpeg) | ![ProjCard](https://user-images.githubusercontent.com/76396056/132065585-d275bf58-fb26-420b-873d-54e4d91c466f.jpeg) | ![Board](https://user-images.githubusercontent.com/76396056/132066165-d00ca49b-f15b-45e7-8c7a-b4492f916f29.jpeg)
 
 ## Contacts
 
